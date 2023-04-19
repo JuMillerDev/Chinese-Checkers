@@ -1,1 +1,1 @@
-# ChineseCheckers
+Project made at course Programming Technologies. The game allows to create and join gaming rooms via IP adress, the game is made for 2-6 players, each has his/her own color and corner. The objective of the game is to put all your figures in the opposite corner. Game also gives tips to the player: for each figure chosen by the player game highlights all availible moves. Game also has a GUI which makes it absolutely playable for each person not connected with programming. 
